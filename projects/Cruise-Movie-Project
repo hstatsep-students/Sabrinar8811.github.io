@@ -44,10 +44,9 @@
     <div class="container-fluid bg-1">
         <div class="container">
 
-            <h1 class="margin text-center">Movie Project</h1>
-            <p>So typically I don't really like group projects, but my partner was chill. Very nice. Did his part well!!</p>
-            <p>This project specifically was based around a movie poster. Since boat horror movies are superior to basically any other horror movies, we decided to make it a boat horror movie!! I did most of the CSS, he did most of the HTML</p>
-            <a href="#">Link about the project</a><br>
+            <h1 class="margin text-center">SHABR</h1>
+            <p>My partner, whose name I do not remember, worked quite well with me on this project. We made a CYOA story where you become sucked inside of a fantasy world, with no choice but to keep moving forward in an attempt to find your way out.</p>
+            <a href="#">https://fantastic-space-waddle-r4prwqrwjqjq356vx-8080.app.github.dev/SEP10-Isekai-D-Into-Fantasy-World/choices/despair.md</a><br>
 
             <!--EXAMPLE OF PREVIEW LINK-->
             <!--<a href="http://yourUserName.github.io/yourRepoName">Preview</a><br>-->
@@ -61,10 +60,10 @@
 
                 <!--
                 <div class="col-sm-6">
-                    Use this to...
+                    CYOA was my favorite project this year
                 </div>
                 <div class="col-sm-6">
-                    ...make two columns
+                  And I believe we did well on it!
                 </div>
                 -->
 
